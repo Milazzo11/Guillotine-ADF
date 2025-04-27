@@ -1,0 +1,2 @@
+- improve documentation / clean-up
+- test decoy watchdog.exe
